@@ -98,7 +98,7 @@ EMountInfor FSimpleUnrealPakModule::MountPak(const FString &AssetFileName, const
 
 		auto MountFile =[&](const FString &NewMountPath)
 		{
-			Print_r(NewMountPath);
+			//Print_r(NewMountPath);
 
 			if (SCopePlatformFile.GetPakPlatformFile()->Mount(*AssetFileName, GetPakOrder(NewMountPath), (NewMountPath.Len() > 0 ? *NewMountPath : nullptr)))
 			{
@@ -135,6 +135,7 @@ EMountInfor FSimpleUnrealPakModule::MountPak(const FString &AssetFileName, const
 			if (UnrealAsset)
 			{
 				return MountFile(GetShortMountPoint(UnrealAsset->MountPoint));
+				//return MountFile(UnrealAsset->MountPoint);
 			}
 		}
 	}

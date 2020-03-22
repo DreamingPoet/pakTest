@@ -78,7 +78,9 @@ public:
 	{
 		const FString ObjectName = AnalysisClassName(T::StaticClass()->GetName()) + TEXT("'") + Filename + TEXT(".") + FPaths::GetCleanFilename(Filename) + TEXT("'");
 
-		return Cast<T>(StaticLoadObject(T::StaticClass(), nullptr, *ObjectName));;
+		T* ObjectToLoad = Cast<T>(StaticLoadObject(T::StaticClass(), nullptr, *ObjectName));;
+
+		return ObjectToLoad;s
 	}
 
 	/** IModuleInterface implementation */

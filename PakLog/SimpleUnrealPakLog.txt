@@ -1,0 +1,87 @@
+﻿Log file open, 03/22/20 22:29:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 14 total threads with 1 sets of task threads.
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:16:52
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: C:/Users/Administrator/Documents/MyPakTest/Pak/testpak.pak -create=../../../../../../Users/Administrator/Documents/MyPakTest/pakTest/Saved/591C8F9C48B6DA2F094348BABEA21823.txt -abslog=C:/Users/Administrator/Documents/MyPakTest/PakLog/SimpleUnrealPakLog.txt -compress -UTF8Output -platform=Windows -multiprocess -patchpaddingalign=2048
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/UnrealPak/Saved/Config/Windows/Engine.ini]
+[2020.03.22-14.29.46:240][  0]LogInit: Computer: FNEO48MGKFVU1R6
+[2020.03.22-14.29.46:240][  0]LogInit: User: Administrator
+[2020.03.22-14.29.46:240][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.22-14.29.46:240][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.22-14.29.46:240][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.03.22-14.29.46:240][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.22-14.29.46:240][  0]LogMemory: Process Physical Memory: 17.52 MB used, 17.52 MB peak
+[2020.03.22-14.29.46:240][  0]LogMemory: Process Virtual Memory: 50.46 MB used, 50.46 MB peak
+[2020.03.22-14.29.46:240][  0]LogMemory: Physical Memory: 10756.57 MB used,  13732.66 MB free, 24489.23 MB total
+[2020.03.22-14.29.46:240][  0]LogMemory: Virtual Memory: 4295.01 MB used,  134213432.00 MB free, 134217728.00 MB total
+[2020.03.22-14.29.46:240][  0]LogInit: Using OS detected language ().
+[2020.03.22-14.29.46:240][  0]LogInit: Using OS detected locale ().
+[2020.03.22-14.29.46:240][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2020.03.22-14.29.46:240][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2020.03.22-14.29.46:240][  0]LogInit: Using OS detected language ().
+[2020.03.22-14.29.46:240][  0]LogInit: Using OS detected locale ().
+[2020.03.22-14.29.46:240][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2020.03.22-14.29.46:240][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2020.03.22-14.29.46:240][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.03.22-14.29.46:242][  0]LogPakFile: Display: Using command line for crypto configuration
+[2020.03.22-14.29.46:245][  0]LogPakFile: Display: Loading response file ../../../../../../Users/Administrator/Documents/MyPakTest/pakTest/Saved/591C8F9C48B6DA2F094348BABEA21823.txt
+[2020.03.22-14.29.46:245][  0]LogPakFile: Added file Source: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/Cone.uasset Dest: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/
+[2020.03.22-14.29.46:245][  0]LogPakFile: Added file Source: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/myactor.uasset Dest: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/
+[2020.03.22-14.29.46:245][  0]LogPakFile: Added file Source: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/mymap.umap Dest: C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/
+[2020.03.22-14.29.46:246][  0]LogPakFile: Display: Added 3 entries to add to pak file.
+[2020.03.22-14.29.46:247][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2020.03.22-14.29.46:248][  0]LogPakFile: Display: Collected 3 files in 0.00s.
+[2020.03.22-14.29.46:250][  0]LogPakFile: Display: Encrypting using embedded key
+[2020.03.22-14.29.46:252][  0]LogPakFile: File "C:/Users/Administrator/Documents/MyPakTest/pakTest/Content/testpak/Cone.uasset" did not get small enough from compression, or compression failed.
+[2020.03.22-14.29.46:252][  0]LogPakFile: Added file "Cone.uasset", 106128 bytes (no order given).
+[2020.03.22-14.29.46:253][  0]LogPakFile: Added compressed file "myactor.uasset", 26.00% of original size. Compressed with Zlib, Size 7206 bytes, Original Size 27713 bytes (no order given).
+[2020.03.22-14.29.46:254][  0]LogPakFile: Added compressed file "mymap.umap", 29.68% of original size. Compressed with Zlib, Size 4767 bytes, Original Size 16063 bytes (no order given).
+[2020.03.22-14.29.46:255][  0]LogPakFile: Display: Added 3 files, 120030 bytes total, time 0.01s.
+[2020.03.22-14.29.46:259][  0]LogPakFile: Display: Compression summary: 27.35% of original size. Compressed Size 11973 bytes, Original Size 43776 bytes. 
+[2020.03.22-14.29.46:259][  0]LogPakFile: Display: Encryption - DISABLED
+[2020.03.22-14.29.46:265][  0]LogPakFile: Display: Unreal pak executed in 0.023130 seconds
+[2020.03.22-14.29.46:273][  0]LogExit: Preparing to exit.
+[2020.03.22-14.29.46:274][  0]LogExit: Exiting.
+[2020.03.22-14.29.46:284][  0]Log file closed, 03/22/20 22:29:46
